@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+requests
+trafilatura
+pytest
+httpx
+google-genai
+supabase
+feedparser

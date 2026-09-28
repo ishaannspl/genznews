@@ -1,0 +1,51 @@
+{
+  "niches": {
+    "health_wellness": {
+      "display_name": "Health & Wellness",
+      "description": "Mental health, fitness, biohacking, nutrition, modern lifestyle medicine",
+      "feeds": [
+        "https://timesofindia.indiatimes.com/rssfeeds/3908999.cms",
+        "https://www.thehindu.com/sci-tech/health/feeder/default.rss",
+        "https://indianexpress.com/section/lifestyle/feed/"
+      ]
+    },
+    "education_career": {
+      "display_name": "Education & Career",
+      "description": "EdTech, remote work trends, Gen Z career shifts, AI-assisted learning",
+      "feeds": [
+        "https://timesofindia.indiatimes.com/rssfeeds/913168846.cms",
+        "https://www.thehindu.com/education/feeder/default.rss",
+        "https://indianexpress.com/section/education/feed/"
+      ]
+    },
+    "entertainment_pop_culture": {
+      "display_name": "Entertainment & Pop Culture",
+      "description": "Streaming, creator economy, gaming culture, viral media",
+      "feeds": [
+        "https://timesofindia.indiatimes.com/rssfeeds/1081479906.cms",
+        "https://www.thehindu.com/entertainment/feeder/default.rss",
+        "https://rss.jagran.com/rss/entertainment/bollywood.xml",
+        "https://indianexpress.com/section/entertainment/feed/"
+      ]
+    },
+    "biogas_clean_energy": {
+      "display_name": "Biogas & Clean Energy",
+      "description": "Waste-to-energy innovations, bio-methane, circular economy, sustainability",
+      "feeds": [
+        "https://timesofindia.indiatimes.com/rssfeeds/2647163.cms",
+        "https://mercomindia.com/feed",
+        "https://www.theguardian.com/world/india/rss"
+      ]
+    },
+    "digital_marketing_social_media": {
+      "display_name": "Digital Marketing & Social Media",
+      "description": "Short-form video algorithms, creator monetization, growth tactics",
+      "feeds": [
+        "https://timesofindia.indiatimes.com/rssfeeds/66949542.cms",
+        "https://rss.jagran.com/rss/technology/tech-news.xml",
+        "https://yourstory.com/feed",
+        "https://indianexpress.com/section/technology/feed/"
+      ]
+    }
+  }
+}

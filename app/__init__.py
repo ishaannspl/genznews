@@ -1,0 +1,1 @@
+"""GenZNews AI application package."""

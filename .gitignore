@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+.env
+articles.db
+app.zip
+output/latest_batch.json
+output/*.json
